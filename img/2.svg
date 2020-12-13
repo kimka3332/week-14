@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 66.667px;
+        fill: #e4e2d7;
+        font-family: NanumMyeongjo;
+        text-transform: uppercase;
+      }
+
+      .cls-2 {
+        font-size: 150px;
+      }
+    </style>
+  </defs>
+  <g id="대지_1" data-name="대지 1">
+    <text id="_2020._02.21___2020._03.15" data-name="2020. 02.21     _    2020.    03.15" class="cls-1" x="1596.271" y="626.743">2020.<tspan x="1596.271" dy="80">02.21 </tspan><tspan x="1596.271" dy="180">   <tspan class="cls-2">_</tspan></tspan><tspan x="1596.271" dy="80">   2020.</tspan><tspan x="1596.271" dy="80">   03.15</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #625a2f;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="778.844" y="75.406" width="807.626" height="935.404" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="778.844" y="75.4062" width="807.626" height="935.404" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iODA3LjYyNiIgaGVpZ2h0PSI5MzUuNDA0IiB2aWV3Qm94PSIwIDAgODA3LjYyNiA5MzUuNDA0Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjgwNy42MjYiIHkxPSI1MTAuMTQ0IiB4Mj0iMCIgeTI9IjQyNS4yNTkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSItMC4yNDgiIHN0b3AtY29sb3I9IiNjYWJlYWUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjE4OCIgc3RvcC1jb2xvcj0iI2IxYWJhNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEuMjUiIHN0b3AtY29sb3I9IiM3MzdjOGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjgwNy42MjYiIGhlaWdodD0iOTM1LjQwNCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="대지_1" data-name="대지 1">
+    <path id="모양_1" data-name="모양 1" class="cls-1" d="M1452.31,131.792L1394.8,92.943s-3.69-3.109-5.45.975-4.82,24.035-4.82,24.035-1.66,1.934.73,4.082-0.94,6.488-.94,6.488-3.97,8.477-7.43,5.545-73.52-63.463-136.84-58.344-126.43,34.546-179.43,131.145-54.17,207.606-67.108,248.645S963.349,551.6,948.186,578.787s-54.648,94.161-85.1,132.5-80.45,83.877-82.887,89.977-1.142,5.232.589,11.129,28.307,54.192,101.97,106.718,150.261,90.726,170.071,91.006,4.28,2.55,9.28-3.06,30.39-73.9,71.32-134.954,126.51-178.348,238.5-236.515C1606.37,513.829,1589.37,359.459,1583.9,329.4c-5.91-32.507-26.88-64.171-58.68-88.492s-45.9-36.717-45.9-36.717-0.28.954,0.32-2.162,0.15-7.516,5.58-8.022,24.48-10.38,25.19-12.237,2.44-2.639,1.75-5.93S1452.31,131.792,1452.31,131.792Z"/>
+  </g>
+</svg>
